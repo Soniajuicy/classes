@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    /** comment **/
+}
+
+p.intro{
+    background-color:
+    grey; 
+    padding:10px;
+     margin:10px;
+     border:3px dotted green;
+     width: 500px;
+}
+  p.duct {
+    background-color:darkcyan ;
+     padding:10px; 
+     margin:10px;
+     border:3px dotted red; 
+     box-sizing: border-box;
+     width: 500px;
+}
+a{
+  display:inline-block;
+  background-color: darkgreen;
+  width:40% ;
+  padding:0px ;
+  margin:0px ;
+
+}

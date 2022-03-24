@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-color: aquamarine;
+background-attachment: fixed;
+}
+
+.box{
+   position: absolute;
+   top: 0;
+   border: 2px solid white;
+   width: 150px;
+   height: 200px;
+   left: 100px;
+   margin-top : 30px;
+}
+
+.container{
+    position: relative;
+}
+
+#pic{
+    background-image: url(twin.jpg);
+    background-size: 300px;
+    background-position: center;
+    background-attachment: fixed;
+}
